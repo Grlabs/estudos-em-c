@@ -45,9 +45,7 @@ int main() {
 
     printf("Dia da maior venda: %d\n", diaMaior);
 
-    printf("Dias com vendas acima de R$ 1000: %
-
-d\n", contador);
+    printf("Dias com vendas acima de R$ 1000: %d\n", contador);
 
     return 0;
 }
