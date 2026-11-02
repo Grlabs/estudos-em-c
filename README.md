@@ -1,31 +1,17 @@
 # Estudos em C
 
-Repositório dedicado ao aprendizado e à prática de programação em linguagem C, reunindo exercícios e pequenos programas desenvolvidos durante meus estudos.
+Repositório com atividades e exercícios desenvolvidos em linguagem C durante meus estudos.
 
-## Objetivos
+## Organização
 
-- Desenvolver a lógica de programação.
-- Praticar estruturas condicionais e de repetição.
-- Trabalhar com vetores e funções.
-- Aplicar conceitos fundamentais da linguagem C.
-- Manter meus estudos organizados e acompanhar minha evolução.
+Todos os exercícios estão na pasta `atividades`.
 
-## Conteúdos
+## Objetivo
 
-| Pasta | Conteúdo |
-|---|---|
-| `01-fundamentos` | Variáveis, tipos de dados e operações matemáticas |
-| `02-condicionais` | Estruturas `if`, `else` e `switch` |
-| `03-repeticao` | Estruturas `for`, `while` e `do while` |
-| `04-vetores` | Armazenamento e processamento de dados em vetores |
-| `05-funcoes` | Criação e utilização de funções |
+Praticar programação, desenvolver a lógica e aprimorar meus conhecimentos em linguagem C.
 
 ## Tecnologias
 
-- Linguagem C
+- C
 - Visual Studio Code
 - GitHub
-
-## Sobre o projeto
-
-Este repositório faz parte da minha jornada de aprendizado em programação e será atualizado conforme eu desenvolver novos exercícios e adquirir conhecimentos.
