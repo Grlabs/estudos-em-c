@@ -10,8 +10,3 @@ Todos os exercícios estão na pasta `atividades`.
 
 Praticar programação, desenvolver a lógica e aprimorar meus conhecimentos em linguagem C.
 
-## Tecnologias
-
-- C
-- Visual Studio Code
-- GitHub
